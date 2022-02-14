@@ -13,7 +13,7 @@ Assets are stored in the `assets` directory and are divided up into 4 different 
 * ### Mouth (10 styles)
 * ### Main (1 style)
 
-All of these assets are then mixed using all possible combinations, generating the following output:
+All of these assets are then mixed using all possible combinations, generating the following in the `output` folder:
 
 ![output](https://user-images.githubusercontent.com/78695941/153790118-ea162429-ab30-40e3-b006-3eaa34d6282b.png)
 
